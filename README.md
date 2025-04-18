@@ -1,5 +1,5 @@
 # code-kata
-Collection of my solutions from [Codewars](https://www.codewars.com) of my kata exercises.
+Collection of my kata exercises solutions from [Codewars](https://www.codewars.com)
 
 Every file contains a comment with a link and description of the problem.
 
