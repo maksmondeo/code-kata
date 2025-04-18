@@ -1,4 +1,7 @@
 # code-kata
-Collection of kata exercises done by me
+Collection of my solutions from [Codewars](https://www.codewars.com) of my kata exercises.
+Every file contains a comment with a link and description of the problem.
 
-All of the exercises contain a comment with description to the exercise.
+---
+
+✨ [My user profile](https://www.codewars.com/users/maksmondeo/) 
