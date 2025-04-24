@@ -37,6 +37,6 @@ def generate_hashtag(s):
     result = "#" + l
     result = result.replace(" ", "")
     
-    if len(l)>=139 or result == "#":
+    if len(result)>140 or result == "#":
         return False
     return result
